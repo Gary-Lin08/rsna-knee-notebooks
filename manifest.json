@@ -1,0 +1,274 @@
+[
+  {
+    "file": "project--references--rsna-knee-abnormalities-efficiency-lb.ipynb",
+    "source_root": "project",
+    "source_path": "references/rsna-knee-abnormalities-efficiency-lb.ipynb",
+    "source_sha256": "f08d438a322081464711fae1b69a967cdfb783a10f91be9c39131a226e62f807",
+    "uploaded_sha256": "ba2ffecc7970b9beb839907dacc0a27798620faf4abe527bd1cff4acd570b82e",
+    "cells": 2
+  },
+  {
+    "file": "archive--analysis--public_latest_audit--rsna-knee-fast-2xt4-inference.ipynb",
+    "source_root": "archive",
+    "source_path": "analysis/public_latest_audit/rsna-knee-fast-2xt4-inference.ipynb",
+    "source_sha256": "cd5b8b69f89bcfaa6b6ee065f7b18f7134dc71968be3827c87ca3e5672007cac",
+    "uploaded_sha256": "80a0b3216f66c83050926da5b0550b76f80666ed3c5bc64c0b742e2b2bf5a126",
+    "cells": 30
+  },
+  {
+    "file": "archive--analysis--radclip_audit--CLIP_Finetuning.ipynb",
+    "source_root": "archive",
+    "source_path": "analysis/radclip_audit/CLIP_Finetuning.ipynb",
+    "source_sha256": "d3cb27532503f1fea590661dff3347687cbb03840f546e2a0a50b1d5050ff778",
+    "uploaded_sha256": "9cbd49d4cd975a3f45c507c837c0fc0343e513ee4ed3a7f4d70f2d1e705d11c3",
+    "cells": 22
+  },
+  {
+    "file": "archive--analysis--radclip_audit--RadCLIP_Inference_Example_VQA.ipynb",
+    "source_root": "archive",
+    "source_path": "analysis/radclip_audit/RadCLIP_Inference_Example_VQA.ipynb",
+    "source_sha256": "e41838d05f32a84a98029cf79279aa8fc720b50361983079cf61b0f1015f67db",
+    "uploaded_sha256": "a0dbed46efbb2b85313f29ef5585620e0acb233cf3d4684a7517ffbbf2c57fd5",
+    "cells": 17
+  },
+  {
+    "file": "archive--analysis--radimagenet_audit--pytorch_example.ipynb",
+    "source_root": "archive",
+    "source_path": "analysis/radimagenet_audit/pytorch_example.ipynb",
+    "source_sha256": "bb989860deeeaa990ee3a55fd499ac93ed91b0e6f0bf8ea1eaecc88880ae2aed",
+    "uploaded_sha256": "eb20bc8b15b5c419c90f276b873086cd7e7933251e80c0ff5af04a1a4b656e4a",
+    "cells": 17
+  },
+  {
+    "file": "archive--analysis--submission_audit--fork_plus_latest--rsna-knee-fast-2xt4-raptor44.ipynb",
+    "source_root": "archive",
+    "source_path": "analysis/submission_audit/fork_plus_latest/rsna-knee-fast-2xt4-raptor44.ipynb",
+    "source_sha256": "5bbe908595b0efab5beee980c664e73dd8561803fe3f65e5bf643c6abb1f5f4d",
+    "uploaded_sha256": "7c94775b164d3ebda15e0d50d812291f68d264b2a6c9793d6011d6330e25f4a8",
+    "cells": 31
+  },
+  {
+    "file": "archive--analysis--submission_audit--fork_plus_latest--v3_source_confirm--rsna-knee-fast-2xt4-raptor44.ipynb",
+    "source_root": "archive",
+    "source_path": "analysis/submission_audit/fork_plus_latest/v3_source_confirm/rsna-knee-fast-2xt4-raptor44.ipynb",
+    "source_sha256": "5bbe908595b0efab5beee980c664e73dd8561803fe3f65e5bf643c6abb1f5f4d",
+    "uploaded_sha256": "7c94775b164d3ebda15e0d50d812291f68d264b2a6c9793d6011d6330e25f4a8",
+    "cells": 31
+  },
+  {
+    "file": "archive--kaggle_submit_kernel--remote--rsna-knee-coat64-fast-swa-submit-notebook.ipynb",
+    "source_root": "archive",
+    "source_path": "kaggle_submit_kernel/remote/rsna-knee-coat64-fast-swa-submit-notebook.ipynb",
+    "source_sha256": "d78349ee7e1d32e5ff1e5ea8931779f1fde0b89ce3a447a5c838736224fc6b9e",
+    "uploaded_sha256": "85aea58ae040f8a1185ffd89dd73324a6159ae2669e341a6a598eeaf98a7be8d",
+    "cells": 2
+  },
+  {
+    "file": "archive--kaggle_submit_kernel--submit.ipynb",
+    "source_root": "archive",
+    "source_path": "kaggle_submit_kernel/submit.ipynb",
+    "source_sha256": "ae8e5ebc638b559adbbe0305a6533e4746b66f3ad201d725ed1602b9f6b6929a",
+    "uploaded_sha256": "52bb7e8e69b01a71594dae33d7ccb9a01b0ee91366183a134852351c58c0c9ca",
+    "cells": 2
+  },
+  {
+    "file": "archive--kagglehub--datasets--laymond--rsna-knee-abnormality-qwen3-8b-weak-labels--versions--2--Qwen2.5-32BGenerator.ipynb",
+    "source_root": "archive",
+    "source_path": "kagglehub/datasets/laymond/rsna-knee-abnormality-qwen3-8b-weak-labels/versions/2/Qwen2.5-32BGenerator.ipynb",
+    "source_sha256": "a628a3a2f16604cdf86c36f01b54d2e9a9c15a583a0f9d10ca55ceed4ac68625",
+    "uploaded_sha256": "7444823fe613c9029d667bb0aefddc84f3f8008453d4771888fc7ce28c89da89",
+    "cells": 17
+  },
+  {
+    "file": "archive--kagglehub--datasets--laymond--rsna-knee-abnormality-qwen3-8b-weak-labels--versions--2--Qwen3-8BGenerator.ipynb",
+    "source_root": "archive",
+    "source_path": "kagglehub/datasets/laymond/rsna-knee-abnormality-qwen3-8b-weak-labels/versions/2/Qwen3-8BGenerator.ipynb",
+    "source_sha256": "a0adcf29d1fe66e72fd9eae1de3edaaa9bc086111740f3eb3bbaa716e5d28290",
+    "uploaded_sha256": "0b7a149ec4e0e86f570805318e38c822c853af8a4c9238da3721c5f1dadaeaba",
+    "cells": 21
+  },
+  {
+    "file": "archive--kernels--fork--rsna-knee-fast-2xt4-inference.ipynb",
+    "source_root": "archive",
+    "source_path": "kernels/fork/rsna-knee-fast-2xt4-inference.ipynb",
+    "source_sha256": "1d25c4f46fce4cda99f0c0dd97fe6e23dab16a529f1fdab6889cced3b267e71b",
+    "uploaded_sha256": "58ce8790a354d281238c10be889b7d12c9808eaf6505383949d26dc62b46dcfc",
+    "cells": 30
+  },
+  {
+    "file": "archive--kernels--knee-anatomical-public--kernel.ipynb",
+    "source_root": "archive",
+    "source_path": "kernels/knee-anatomical-public/kernel.ipynb",
+    "source_sha256": "51cd1eedf308f9613482900daf1bea65835b26c49b3eed89aa02e66c057e55cf",
+    "uploaded_sha256": "6ce8da07c3f9b97f0bb58410c05d9ed92fa6b3c76176c480fabf256e3c6df2c9",
+    "cells": 5
+  },
+  {
+    "file": "archive--kernels--knee-public-mix5-w20--rsna-knee-fast-2xt4-inference.ipynb",
+    "source_root": "archive",
+    "source_path": "kernels/knee-public-mix5-w20/rsna-knee-fast-2xt4-inference.ipynb",
+    "source_sha256": "b01e697b60786a9f4c8446b027dc9d56b02c416c13be74c173f6cf4c8c0fc52a",
+    "uploaded_sha256": "378917f3106c7cbbc4d41f08c3d6d0b9e1d8227c18b758c9891f35c2b724d940",
+    "cells": 31
+  },
+  {
+    "file": "archive--kernels--knee-public-mix5-w20--v3_source_confirm--knee-public-mix5-w20.ipynb",
+    "source_root": "archive",
+    "source_path": "kernels/knee-public-mix5-w20/v3_source_confirm/knee-public-mix5-w20.ipynb",
+    "source_sha256": "260598c877a9013fc0176cb81950dd10a5af7076e6dfe9d41fb4d8da14cae402",
+    "uploaded_sha256": "0a99d4d3019a1c08f4717eddfe85d01933b72489072492a50cae666b47fb2736",
+    "cells": 31
+  },
+  {
+    "file": "archive--kernels--knee-public-triple--kernel.ipynb",
+    "source_root": "archive",
+    "source_path": "kernels/knee-public-triple/kernel.ipynb",
+    "source_sha256": "ecb0dea09933d51098be8ed779e9675c5b6cc6e96ecb7d70dc3a559225c679e7",
+    "uploaded_sha256": "31ac60d0dd6e765e3823da7a30e9ce7745105ba6b0686c06ad2c3bb8a11a7578",
+    "cells": 8
+  },
+  {
+    "file": "archive--kernels--pulled-candidate--rsna-knee-fast-2xt4-raptor44.ipynb",
+    "source_root": "archive",
+    "source_path": "kernels/pulled-candidate/rsna-knee-fast-2xt4-raptor44.ipynb",
+    "source_sha256": "5bbe908595b0efab5beee980c664e73dd8561803fe3f65e5bf643c6abb1f5f4d",
+    "uploaded_sha256": "7c94775b164d3ebda15e0d50d812291f68d264b2a6c9793d6011d6330e25f4a8",
+    "cells": 31
+  },
+  {
+    "file": "archive--kernels--rsna-knee-fast-2xt4-raptor44--rsna-knee-fast-2xt4-inference.ipynb",
+    "source_root": "archive",
+    "source_path": "kernels/rsna-knee-fast-2xt4-raptor44/rsna-knee-fast-2xt4-inference.ipynb",
+    "source_sha256": "96ffb420465e86d6b79bc67626fef4e551e18c4d33dfb6dcd5ae2d895ca849b7",
+    "uploaded_sha256": "8dad1a79075c5daec0b60f98858220ef1cfba9e6b520d14f0134d15802bad2e2",
+    "cells": 31
+  },
+  {
+    "file": "archive--research--public_refresh--20261010--hitarthjain0--kernel.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/20261010/hitarthjain0/kernel.ipynb",
+    "source_sha256": "5be6ec0a756eb56b5c587895e2fb4d65bf65e7077a3c4df734c3c9bd59e2e1d4",
+    "uploaded_sha256": "908ca08adac45a1f353607dfe88947ad47efdb3d733747f1b8ecb6c87c799be0",
+    "cells": 11
+  },
+  {
+    "file": "archive--research--public_refresh--20261010--nartaa--kernel.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/20261010/nartaa/kernel.ipynb",
+    "source_sha256": "8f1f96530b08543bd6caeed48489eea7c01657d6994f22e21a8400047fd4e100",
+    "uploaded_sha256": "37eb0b176af3ba868221d08769c26c6be55a173b6f7603c9f28afe046a132174",
+    "cells": 5
+  },
+  {
+    "file": "archive--research--public_refresh--20261010--samanyu1808--kernel.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/20261010/samanyu1808/kernel.ipynb",
+    "source_sha256": "8f4c2cd03044d26167f986ec267873f01bb51619cbdf734dda8f5b47b6f935a0",
+    "uploaded_sha256": "229fc1c57827586b4bcfaae2e2f4890e78d0df693851c07eceecfee2104d5c6b",
+    "cells": 11
+  },
+  {
+    "file": "archive--research--public_refresh--anatomical--rsna-knee-0949-anatomical-mirror.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/anatomical/rsna-knee-0949-anatomical-mirror.ipynb",
+    "source_sha256": "8f1f96530b08543bd6caeed48489eea7c01657d6994f22e21a8400047fd4e100",
+    "uploaded_sha256": "37eb0b176af3ba868221d08769c26c6be55a173b6f7603c9f28afe046a132174",
+    "cells": 5
+  },
+  {
+    "file": "archive--research--public_refresh--audit0--rsna-knee-template.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/audit0/rsna-knee-template.ipynb",
+    "source_sha256": "b2b53c4f2d5ddb8e896520bce5100f1a736ba8799bde3b7bc56533418cb13677",
+    "uploaded_sha256": "fc460939937bd69fb0fd943332aaae918573aec0d4cd60f4cde72f806acd0690",
+    "cells": 3
+  },
+  {
+    "file": "archive--research--public_refresh--audit1--rsna-knee-apex-grandmaster-stack.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/audit1/rsna-knee-apex-grandmaster-stack.ipynb",
+    "source_sha256": "c3b62e2f8be016abe541e9d5e537217fec73edce41f6fef15d95527c2dbfc75a",
+    "uploaded_sha256": "da1c4786ac9262a022707f754d73f9aef7645bdbb989ee3920d9b3ac54ed7ac1",
+    "cells": 10
+  },
+  {
+    "file": "archive--research--public_refresh--audit2--rsna-knee-v2-velciraptor-dinosaur-speed.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/audit2/rsna-knee-v2-velciraptor-dinosaur-speed.ipynb",
+    "source_sha256": "02a11b6b0027544f9c8ba7d24acaf02219043939e792183b73da7dfa2b641ec3",
+    "uploaded_sha256": "c776e424c48a0ad417fe19bdfe58b45affb5c4c00fd49006d1d87186466c04b9",
+    "cells": 5
+  },
+  {
+    "file": "archive--research--public_refresh--bees--the-bee-s-knees-final-rsna-push.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/bees/the-bee-s-knees-final-rsna-push.ipynb",
+    "source_sha256": "3541ca6cc376e9ee22c204b5c90b801628c4ba578dab02ba4907715bc13ec6a5",
+    "uploaded_sha256": "690d15066bcb4f869fcc82fcae00921225187ffd3025186ed9078097f441da28",
+    "cells": 140
+  },
+  {
+    "file": "archive--research--public_refresh--dinosaur5--rsna-knee-dinosaur-v5.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/dinosaur5/rsna-knee-dinosaur-v5.ipynb",
+    "source_sha256": "e73d5a8dda5145a9e733ede9bd4b653a48cabd4a228770c3df8fd07ee45876d8",
+    "uploaded_sha256": "9cb4830084ba262e400c0a81c492b71a0c7276bdc47dc812fa265156b3e53104",
+    "cells": 11
+  },
+  {
+    "file": "archive--research--public_refresh--dual951--rsna-knee-sota-dual-engine-stack-lb-0-951.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/dual951/rsna-knee-sota-dual-engine-stack-lb-0-951.ipynb",
+    "source_sha256": "b15362c9f43f8a6aab03c5d63c6187cde3bbe95d98507a4225ab1440064829c2",
+    "uploaded_sha256": "00784e987efa78d574d9ccd214cf4ab6489976c56caa3c5dad3a23852d373ce8",
+    "cells": 11
+  },
+  {
+    "file": "archive--research--public_refresh--efficient224--rsna-knee-0945-efficient-224crop.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/efficient224/rsna-knee-0945-efficient-224crop.ipynb",
+    "source_sha256": "b80d3b72a1c34f2b39b3ea0d2952f039b8d27c3feb5c4db0a7d0ab62ae75354e",
+    "uploaded_sha256": "8e85a49c7b401c118b678d8f3d2750c9b786ceb97b66bc273315a5907ae8258d",
+    "cells": 5
+  },
+  {
+    "file": "archive--research--public_refresh--helios--rsna-knee-abnormality-detection.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/helios/rsna-knee-abnormality-detection.ipynb",
+    "source_sha256": "c796b1a838dd121ffeaa997c3a94fbd5351b87e656ba0106dd8a1b55f506d080",
+    "uploaded_sha256": "1ed840040c80fef1d83b878184b865cac954a4d8e638f2b7015398a9bae4de2d",
+    "cells": 7
+  },
+  {
+    "file": "archive--research--public_refresh--helios_gold--rsna-knee-blend-gold.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/helios_gold/rsna-knee-blend-gold.ipynb",
+    "source_sha256": "d001b147ffcb4b7a9271422486046d90e45d910c894d94a7e5d20baf66db2d38",
+    "uploaded_sha256": "76edaf9c47c23290d8341246604b2a328ede4855377d535bc47cf47ea1f94d3e",
+    "cells": 7
+  },
+  {
+    "file": "archive--research--public_refresh--rabari95--rsna-knee-lb-0-95.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/rabari95/rsna-knee-lb-0-95.ipynb",
+    "source_sha256": "88e4bde391b2fbe53321edc5e8173528ce113c272124ff89a942c577582177a5",
+    "uploaded_sha256": "5cfb30ea35b13a09c78da2b6c90740aec4683c963fc5fb81d32c3d4ceabe9d85",
+    "cells": 14
+  },
+  {
+    "file": "archive--research--public_refresh--reader_blend--rsna-knee-0-949-coatnet-stack-blend-lb-0-949.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/reader_blend/rsna-knee-0-949-coatnet-stack-blend-lb-0-949.ipynb",
+    "source_sha256": "91ac1af9cf90521af726d1af5a9d6c79075a8b0d0dbfc35e5ba31fb0493eb0f7",
+    "uploaded_sha256": "a0858216d6d99d0abdf045c7ed9d4799786cdd7d52752fdf4b97678ab3c7bad0",
+    "cells": 36
+  },
+  {
+    "file": "archive--research--public_refresh--versia7--rsna-versia-7.ipynb",
+    "source_root": "archive",
+    "source_path": "research/public_refresh/versia7/rsna-versia-7.ipynb",
+    "source_sha256": "d85fd025ca58123cc9795be928fffb909c17a0306bc98d7481905b8578159169",
+    "uploaded_sha256": "1fc25b77d1bf55316b824ecc1b5ef505ceb07faf83a88efde2bccc36c0166132",
+    "cells": 15
+  }
+]
